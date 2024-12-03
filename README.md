@@ -26,8 +26,6 @@ Waste-Well provides a platform where:
 
 - **User Authentication**: Secure login and registration using JWT.
 - **Waste Reporting**: Users can submit reports about waste accumulation in their area.
-- **Task Assignment**: Assign waste collection tasks to teams.
-- **Admin Dashboard**: Manage users, tasks, and reports.
 - **Real-time Updates**: Track status updates on waste management requests.
 - **Analytics Dashboard**: Insights into waste management metrics.
 
